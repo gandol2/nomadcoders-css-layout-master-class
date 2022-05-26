@@ -10,7 +10,7 @@
 
 - [x] `flex-direction` : 메인축의 방향을 결정
 
-  - [x] `row` : 가로정렬
+  - [x] `row` : `default` 가로정렬
   - [x] `row-reverse` : 가로정렬(반전)
   - [x] `column` : 세로정렬
   - [x] `column-reverse` : 세로정렬(반전)
