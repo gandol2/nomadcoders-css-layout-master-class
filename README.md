@@ -10,10 +10,10 @@
 
 - [x] `flex-direction` : 메인축의 방향을 결정
 
-  - [x] `row` : 가로정렬 `❗default`
-  - [x] `row-reverse` : 가로정렬(반전)
-  - [x] `column` : 세로정렬
-  - [x] `column-reverse` : 세로정렬(반전)
+  - [x] `flex-direction : row;` : 가로정렬 `(default❗)`
+  - [x] `flex-direction : row-reverse;` : 가로정렬(반전)
+  - [x] `flex-direction : column;` : 세로정렬
+  - [x] `flex-direction : column-reverse;` : 세로정렬(반전)
 
 - [ ] order
 - [ ] justify-content
