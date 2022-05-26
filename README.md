@@ -8,7 +8,7 @@
 
 ## Flexbox:
 
-- [ ] `flex-direction` : 메인축의 방향을 결정
+- [ ] <span style="color:orange;">`flex-direction`</span> : 메인축의 방향을 결정
 
   - [x] `row`
   - [x] `row-reverse`
