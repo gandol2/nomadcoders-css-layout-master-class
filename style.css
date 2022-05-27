@@ -1,26 +1,52 @@
-.father {
-  height: 100vh;
-  display: flex;
-  flex-direction: column;
-  /* justify-content: space-around; */
-  /* flex-direction: row-reverse; */
-
-  /* align-items: flex-end; */
-  /* align-content: center; */
-
-  /* flex-wrap: wrap; */
-
-  /* flex-wrap: wrap; */
+/* .father {
+  display: grid;
+  grid-template-columns: 250px 250px 250px;
+  grid-template-rows: 100px 50px 300px;
+  gap: 20px;
 }
 
 .child {
-  width: 200px;
-  height: 200px;
+  flex-basis: 30%;
   color: white;
   background-color: tomato;
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 4rem;
+  font-size: 30px;
   border: 1px solid black;
+} */
+/* body {
+  border: 5px solid rgba(0, 0, 0, 0.6);
+  border-radius: 10px;
+} */
+
+.grid div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 20px;
+  border: 1px solid red;
+}
+
+.grid {
+  background-color: #0005;
+  height: 100px;
+  display: grid;
+  gap: 10px;
+  /* grid-auto-flow: column; */
+}
+
+.auto-fill {
+  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+}
+.auto-fit {
+  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+}
+
+.item:nth-child(odd) {
+  background-color: #2ecc71;
+}
+.item:nth-child(even) {
+  background-color: #3498db;
 }
