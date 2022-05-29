@@ -454,7 +454,7 @@
 - [x] [https://paint-box.com/](https://paint-box.com/) ▶ [Clone Result](https://gandol2.github.io/nomadcoders-css-layout-master-class/clone/02.html)
 - [x] [http://10x19.co/](http://10x19.co/) ▶ [Clone Result](https://gandol2.github.io/nomadcoders-css-layout-master-class/clone/03.html)
 - [x] [http://www.z-o-o.fr/](http://www.z-o-o.fr/)
-- [ ] [https://schwartzmedia.com.au/](https://schwartzmedia.com.au/)
+- [x] [https://schwartzmedia.com.au/](https://schwartzmedia.com.au/)
 - [ ] [https://tolv.dk/](https://tolv.dk/)
 - [ ] [https://rodicdavidson.co.uk/](https://rodicdavidson.co.uk/)
 - [ ] [https://beige.de/](https://beige.de/)
